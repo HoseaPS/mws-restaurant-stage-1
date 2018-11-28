@@ -7,17 +7,17 @@ Projeto criado como parte do curso Front-End Developer Nanodegree da Udacity. Da
 
 ### Executar a aplicação
 
-To executar a aplicação, faça o download ou clone o repositorio em seu computador:
+Para executar a aplicação, faça o download ou clone o repositorio em seu computador:
 
 1. Na nova pasta, inicialize um servidor cliente local usando Python no seu terminal: 
 Python 2: `python -m SimpleHTTPServer 8000` 
 Python 3: `python3 -m http.server 8000`
 
-2. Acesse o site no seu navegador em http://localhost:8000
+2. Acesse o site no seu navegador em http://localhost:8000 ou em outra porta se assim desejar, desde que seja especificado hora da criação do servidor local.
 
 ## Leaflet.js and Mapbox:
 
-This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/).
+Este repositório usa [leafletjs](https://leafletjs.com/) com [Mapbox](https://www.mapbox.com/).
 
 
 
