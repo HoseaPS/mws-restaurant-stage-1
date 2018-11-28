@@ -10,8 +10,8 @@ Projeto criado como parte do curso Front-End Developer Nanodegree da Udacity. Da
 To executar a aplicação, faça o download ou clone o repositorio em seu computador:
 
 1. Na nova pasta, inicialize um servidor cliente local usando Python no seu terminal: 
-Python 2: python -m SimpleHTTPServer 8000 
-Python 3: python3 -m http.server 8000
+Python 2: `python -m SimpleHTTPServer 8000` 
+Python 3: `python3 -m http.server 8000`
 
 2. Acesse o site no seu navegador em http://localhost:8000
 
