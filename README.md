@@ -1,7 +1,7 @@
 # Restaurant Reviews App (Stage 1)
 ---
 
-### Description
+### Descrição
 
 Projeto criado como parte do curso Front-End Developer Nanodegree da Udacity. Dado um o código de um site de avaliação de restaurantes, foi convertido de um site com design estático que não oferece acessibilidade em uma aplicação web pronta para dispositivos móveis com um design responsivo em telas de tamanhos diferentes e acessível para uso no leitor de tela. Além disso, usando a Cache API e um ServiceWorker, foi armazenado os dados do site em cache para que qualquer página (incluindo imagens) pudesse ser acessada offline (PWA).
 
